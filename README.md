@@ -41,8 +41,6 @@ python Ttotris.py
 (키 help 이미지) <br>
 (아이템 help 이미지)
 
-## 모드 설명 
-(모드 이미지들)
 
 ## Credits:
 - __Sprites__ : 
